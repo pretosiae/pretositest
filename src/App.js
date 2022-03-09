@@ -201,11 +201,11 @@ function App() {
         style={{ padding: 24, backgroundColor: "var(--primary)" }}
         image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
       >
-        <StyledLogo alt={"logo"} src={"/config/images/logo.PNG"} />
+        <StyledLogo alt={"logo"} src={"/config/images/logo.png"} />
         <s.Container flex={1} jc={"center"} ai={"center"}>
             <StyledImg
               alt={"example"}
-              src={"https://raw.githubusercontent.com/pretosiae/pretositest/gh-pages/config/images/example.gif"}
+              src={"/config/images/example.gif"}
             />
           </s.Container>
         <s.SpacerSmall />
