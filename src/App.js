@@ -205,7 +205,7 @@ function App() {
         <s.Container flex={1} jc={"center"} ai={"center"}>
             <StyledImg
               alt={"example"}
-              src={"/config/images/example.gif"}
+              src={"https://raw.githubusercontent.com/pretosiae/pretositest/gh-pages/config/images/example.gif"}
             />
           </s.Container>
         <s.SpacerSmall />
