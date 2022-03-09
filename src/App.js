@@ -201,7 +201,7 @@ function App() {
         style={{ padding: 24, backgroundColor: "var(--primary)" }}
         image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
       >
-        <StyledLogo alt={"logo"} src={"https://pretosiae.github.io/pretositest/config/images/logo.png"} />
+        <StyledLogo alt={"logo"} src={"/config/images/logo.PNG"} />
         <s.Container flex={1} jc={"center"} ai={"center"}>
             <StyledImg
               alt={"example"}
