@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pretositest/static/css/main.2c9107c3.chunk.css",
+    "main.js": "/pretositest/static/js/main.4fbe9ee3.chunk.js",
+    "main.js.map": "/pretositest/static/js/main.4fbe9ee3.chunk.js.map",
+    "runtime-main.js": "/pretositest/static/js/runtime-main.f9267666.js",
+    "runtime-main.js.map": "/pretositest/static/js/runtime-main.f9267666.js.map",
+    "static/js/2.d06bae44.chunk.js": "/pretositest/static/js/2.d06bae44.chunk.js",
+    "static/js/2.d06bae44.chunk.js.map": "/pretositest/static/js/2.d06bae44.chunk.js.map",
+    "static/js/3.1414eae9.chunk.js": "/pretositest/static/js/3.1414eae9.chunk.js",
+    "static/js/3.1414eae9.chunk.js.map": "/pretositest/static/js/3.1414eae9.chunk.js.map",
+    "index.html": "/pretositest/index.html",
+    "static/css/main.2c9107c3.chunk.css.map": "/pretositest/static/css/main.2c9107c3.chunk.css.map",
+    "static/js/2.d06bae44.chunk.js.LICENSE.txt": "/pretositest/static/js/2.d06bae44.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/pretositest/static/media/font.7f911333.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9267666.js",
+    "static/js/2.d06bae44.chunk.js",
+    "static/css/main.2c9107c3.chunk.css",
+    "static/js/main.4fbe9ee3.chunk.js"
+  ]
+}

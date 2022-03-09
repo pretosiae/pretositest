@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe54F0c4A26fA32845400133A884284F526148a1c",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xe54F0c4A26fA32845400133A884284F526148a1c",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Pretosi Ortus Collection",
+  "SYMBOL": "POC",
+  "MAX_SUPPLY": 7,
+  "WEI_COST": 24000000000000000,
+  "DISPLAY_COST": 0.024,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/pretosiortuscollection",
+  "SHOW_BACKGROUND": true
+}
